@@ -5,4 +5,4 @@ gradle/
 gradlew
 gradlew.bat
 lib/.classpath
-lib/bin/**/*.class
+lib/bin/**/*.class 
