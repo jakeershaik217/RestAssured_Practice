@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "status": { "type": "string" },
+    "place_id": { "type": "string" },
+    "scope": { "type": "string" },
+    "reference": { "type": "string" },
+    "id": { "type": "string" }
+  }
+  
+  
+}
